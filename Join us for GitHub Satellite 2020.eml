@@ -1,0 +1,485 @@
+Return-Path: <bounce-mc.us11_46716125.907134-d1cd7df8dd@mcmail.github.com>
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on
+	dd13538.kasserver.com
+X-Original-To: dsander@head-first.de
+Delivered-To: m051de0e@dd13538.kasserver.com
+X-Greylist: delayed 2208 seconds by postgrey-1.34 at dd13538; Fri, 17 Apr 2020 21:58:43 CEST
+Authentication-Results: dd13538.kasserver.com;
+	dkim=pass (1024-bit key; unprotected) header.d=github.com header.i=noreply@github.com header.b=lsuNR0Rh;
+	dkim-atps=neutral
+X-policyd-weight: using cached result; rate: -7
+Received: from mcmail.github.com (mcmail.github.com [198.2.131.14])
+	by dd13538.kasserver.com (Postfix) with ESMTPS id 4E77717A0010
+	for <dsander@head-first.de>; Fri, 17 Apr 2020 21:58:43 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com; s=k1;
+	t=1587150894; i=noreply@github.com;
+	bh=+owJFF8QiO/KmAx+GnlJf/r0G9goUWttiMpY42WMMco=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
+	 Content-Type:MIME-Version;
+	b=lsuNR0Rh2zRHnK7TJI3C3HOMhwLc1vH0l3o0qmzt9WTD/VqfVY+1oyvF+OKEKR98V
+	 9nK07QSix1XnU3eBcotttw9xC8zoFMy/17JCzU7F1Xa2g9E3eHTtX9rD5E1pJs67yL
+	 tphhiUYbzFcroyC84Gz+bO0ai9R0bnQUJck9U9VY=
+Received: from localhost (localhost [127.0.0.1])
+	by mcmail.github.com (Mailchimp) with ESMTP id 493m4Z2hmSzNF349H
+	for <dsander@head-first.de>; Fri, 17 Apr 2020 19:14:54 +0000 (GMT)
+Subject: =?utf-8?Q?Join=20us=20for=20GitHub=20Satellite=202020?=
+From: =?utf-8?Q?GitHub?= <noreply@github.com>
+Reply-To: =?utf-8?Q?GitHub?= <noreply@github.com>
+To: <dsander@head-first.de>
+Date: Fri, 17 Apr 2020 19:14:32 +0000
+Message-ID: <9d7ced8c4bbd6c2f238673f0f.d1cd7df8dd.20200417191420.716cc56f02.63fa3586@mcmail.github.com>
+X-Mailer: MailChimp Mailer - **CID716cc56f02d1cd7df8dd**
+X-Campaign: mailchimp9d7ced8c4bbd6c2f238673f0f.716cc56f02
+X-campaignid: mailchimp9d7ced8c4bbd6c2f238673f0f.716cc56f02
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=9d7ced8c4bbd6c2f238673f0f&id=716cc56f02&e=d1cd7df8dd
+X-MC-User: 9d7ced8c4bbd6c2f238673f0f
+Feedback-ID: 46716125:46716125.907134:us11:mc
+List-ID: 9d7ced8c4bbd6c2f238673f0fmc list <9d7ced8c4bbd6c2f238673f0f.364965.list-id.mcsv.net>
+X-Accounttype: pr
+List-Unsubscribe: <https://github.us11.list-manage.com/unsubscribe?u=9d7ced8c4bbd6c2f238673f0f&id=081a1c4883&e=d1cd7df8dd&c=716cc56f02>, <mailto:unsubscribe-mc.us11_9d7ced8c4bbd6c2f238673f0f.716cc56f02-d1cd7df8dd@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1891891813"
+MIME-Version: 1.0
+X-KasLoop: m051de0e
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1891891813
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+** You=E2=80=99re invited to GitHub Satellite
+------------------------------------------------------------
+
+GitHub Satellite is virtual this year=2C and we=E2=80=99d love to see you=
+ there. Join us from your laptop or phone on May 6 starting at 9 am PT / 1=
+2 pm ET / 6 pm CET for a full day of free product talks=2C protips from te=
+ams=2C code-powered musical performances=2C and much more. Tune in for all=
+ 12 hours of it or just watch the sessions that interest you=E2=80=94all w=
+ithout leaving your couch.
+Add the keynote to your calendar (https://githubsatellite.com/?utm_source=
+=3Dannouncement&utm_medium=3Demail&utm_campaign=3Dsatellite-virtual-announ=
+ce-20200416#add-to-calendar)
+------------------------------------------------------------
+
+
+** Why you should be there
+------------------------------------------------------------
+
+There are lots of reasons to join our virtual Satellite event. Here are ju=
+st a few.
+
+
+** Hear what=E2=80=99s next
+------------------------------------------------------------
+
+Be the first to learn about some exciting announcements in security=2C Dev=
+Ops=2C GitHub Enterprise=2C and our product roadmap in a keynote from CEO=
+ Nat Friedman and more of the GitHub Team.
+
+
+** Join the conversation
+------------------------------------------------------------
+
+Ask questions and share your thoughts about event sessions as they unfold=
+ with the GitHub Team and developers around the world.
+
+
+** Get inspired
+------------------------------------------------------------
+
+>From DJ sets built from code to live coding sessions=2C our new Play Track=
+ has lots of ways to stay inspired throughout the day=E2=80=94and after th=
+e event.
+
+
+** Watch from anywhere for free
+------------------------------------------------------------
+
+Enjoy it all without leaving your house=2C changing out of pajamas=2C or p=
+aying a dime. Just go to the Satellite site and join the livestream when y=
+ou want to watch.
+Explore the schedule (https://githubsatellite.com/schedule?utm_source=3Dan=
+nouncement&utm_medium=3Demail&utm_campaign=3Dsatellite-virtual-announce-20=
+200416)
+------------------------------------------------------------
+
+
+** Workshop with us on May 7
+------------------------------------------------------------
+
+Want to get hands on with Git and GitHub the day after the main event? Sig=
+n up for virtual workshops happening the day after Satellite. Your ticket=
+ will include two workshops of your choice=2C hosted by experts from our P=
+rofessional Services=2C Ecosystem=2C and GitHub Security Teams. Workshops=
+ cost $50 to reserve a spot=2C but 100% of proceeds go to these organizati=
+ons=E2=80=99 COVID-19 relief efforts: Banque Alimentaire (https://www.banq=
+uealimentaire.org/) =2C Food Bank for New York City (https://www.foodbankn=
+yc.org/) =2C and Global FoodBanking Network (https://www.foodbanking.org/t=
+ake-action/donate/) .
+Sign up for Satellite Workshops (https://githubsatellite.com/get-tickets?u=
+tm_source=3Dannouncement&utm_medium=3Demail&utm_campaign=3Dsatellite-virtu=
+al-announce-20200416)
+------------------------------------------------------------
+
+Unsubscribe (https://github.us11.list-manage.com/unsubscribe?u=3D9d7ced8c4=
+bbd6c2f238673f0f&id=3D081a1c4883&e=3Dd1cd7df8dd&c=3D716cc56f02) =C2=B7 Email=
+ preferences (https://github.com/settings/emails) =C2=B7 Terms (https://he=
+lp.github.com/articles/github-terms-of-service/) =C2=B7 Privacy (https://h=
+elp.github.com/articles/github-privacy-statement/) =C2=B7 Sign in to GitHu=
+b (https://github.com/login)
+
+GitHub=2C Inc.
+88 Colin P Kelly Jr St.
+San Francisco=2C CA 94107
+--_----------=_MCPart_1891891813
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-=
+8">
+    <title>Join us for GitHub Satellite 2020</title>
+    <style type=3D"text/css">
+      @media only screen and (max-width: 600px) {
+        .onboarding-icon {
+          margin:0 auto 10px;
+        }
+
+        .onboarding-section td {
+          display:block;
+          width:100%;
+        }
+      }
+
+      @media only screen and (max-width: 600px) {
+        .icon-row {
+          margin:0 auto 10px;
+        }
+
+        .icon-row td {
+          display:block;
+          width:100%;
+        }
+      }
+
+      @media only screen and (max-width: 620px) {
+        table[class=3Dbody] h1=2Ctable[class=3Dbody] h2=2Ctable[class=
+=3Dbody] h3=2Ctable[class=3Dbody] h4 {
+          font-weight:600 !important;
+        }
+
+        table[class=3Dbody] h1 {
+          font-size:24px !important;
+        }
+
+        table[class=3Dbody] h2 {
+          font-size:20px !important;
+        }
+
+        table[class=3Dbody] h3 {
+          font-size:16px !important;
+        }
+
+        table[class=3Dbody] .lead {
+          font-size:16px !important;
+          line-height:24px !important;
+        }
+
+        table[class=3Dbody] .container {
+          padding:20px !important;
+          width:100% !important;
+        }
+
+        table[class=3Dbody] .btn table {
+          width:100% !important;
+        }
+
+        table[class=3Dbody] .btn a {
+          display:block !important;
+        }
+
+        table[class=3Dbody] .header-padded=2Ctable[class=3Dbody] .body-p=
+added {
+          padding-left:0 !important;
+          padding-right:0 !important;
+        }
+      }
+    </style>
+  </head>
+  <body style=3D"font-family: -apple-system=2C BlinkMacSystemFont=2C 'Sego=
+e UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=2C 'Segoe=
+ UI Emoji'=2C 'Segoe UI Symbol'; font-size: 16px; height: 100% !important;=
+ line-height: 1.5; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; width: 100% !important; background-color: #fff=
+;">
+    <table class=3D"body" style=3D"border-collapse:separate !important;mso=
+-table-lspace:0pt;mso-table-rspace:0pt;width:100%;background-color:#fff;"=
+ width=3D"100%" bgcolor=3D"#ffffff">
+      <tr>
+        <td style=3D"font-family:'-apple-system'=2C BlinkMacSystemFont=2C=
+ 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=2C=
+ 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;vertical-align:top;"=
+ valign=3D"top"></td>
+        <td class=3D"container" style=3D"font-family:'-apple-system'=2C Bl=
+inkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'App=
+le Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;ve=
+rtical-align:top;display:block;margin:0 auto !important;max-width:580px;pa=
+dding:30px 30px 0px 30px;width:580px;" width=3D"580" valign=3D"top">
+          <div class=3D"content" style=3D"display:block;margin:0 auto;max-=
+width:580px;">
+
+            <span class=3D"preheader" style=3D"color: transparent; display=
+: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidd=
+en; mso-hide: all; visibility: hidden; width: 0;">GitHub Satellite is virt=
+ual this year=2C and we=E2=80=99d love to see you there.</span>
+            <a href=3D"https://github.us11.list-manage.com/track/click?u=
+=3D9d7ced8c4bbd6c2f238673f0f&id=3D2ae2d9be61&e=3Dd1cd7df8dd" style=3D"col=
+or:#0366d6;text-decoration:underline;">
+              <img src=3D"https://mcusercontent.com/9d7ced8c4bbd6c2f238673=
+f0f/images/9977ee51-d47d-4099-ac29-04910ee35fa6.png" width=3D"580" alt=3D"=
+GitHub Satellite" class=3D"hero-img rounded" style=3D"-ms-interpolation-mo=
+de: bicubic; max-width: 100%; display: block; height: auto; margin-bottom:=
+ 20px; border-radius: 4px;"></a>
+              <h1 style=3D"color:#111111 !important;font-family:'-apple-sy=
+stem'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-se=
+rif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-w=
+eight:500;line-height:1.25;margin:0 0 12px;font-size:34px;">You=E2=80=99re=
+ invited to GitHub Satellite</h1>
+              <p style=3D"font-family:'-apple-system'=2C BlinkMacSystemFon=
+t=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=
+=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;font-weight:norma=
+l;line-height:1.5;margin:0;margin-bottom:15px;">GitHub Satellite is virtua=
+l this year=2C and we=E2=80=99d love to see you there. Join us from your l=
+aptop or phone on May 6 starting at 9 am PT / 12 pm ET / 6 pm CET for a fu=
+ll day of free product talks=2C protips from teams=2C code-powered musical=
+ performances=2C and much more. Tune in for all 12 hours of it or just wat=
+ch the sessions that interest you=E2=80=94all without leaving your couch.
+              </p>
+              <table class=3D"btn btn-primary" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"border-collapse:separate !important;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;width:100%;" width=3D"100%">
+                <tr>
+                  <td style=3D"font-family:'-apple-system'=2C BlinkMacSyst=
+emFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color E=
+moji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;vertical-ali=
+gn:top;" valign=3D"top">
+                    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"bo=
+rder-collapse:separate !important;mso-table-lspace:0pt;mso-table-rspace:0p=
+t;width:auto;">
+                      <tr>
+                        <td style=3D"font-family:'-apple-system'=2C BlinkM=
+acSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple C=
+olor Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;vertic=
+al-align:top;background-color:#0366d6;border-radius:5px;text-align:center;=
+" valign=3D"top" bgcolor=3D"#0366d6" align=3D"center">
+                          <a href=3D"https://github.us11.list-manage.com/t=
+rack/click?u=3D9d7ced8c4bbd6c2f238673f0f&id=3D79d1f0e8a0&e=3Dd1cd7df8dd"=
+ style=3D"color:#ffffff;text-decoration:none;background-color:#0366d6;bord=
+er:solid 1px #0366d6;border-radius:5px;display:inline-block;font-size:16px=
+;font-weight:bold;margin:0;padding:10px 20px;border-color:#0366d6;">Add th=
+e keynote to your calendar</a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <hr style=3D"height:0;overflow:visible;margin-top:30px;margi=
+n-bottom:30px;border:0;border-top:1px solid #eee;">
+              <h2 style=3D"color:#111111 !important;font-family:'-apple-sy=
+stem'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-se=
+rif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-w=
+eight:500;line-height:1.25;margin:0 0 12px;font-size:28px;">Why you should=
+ be there</h2>
+              <p style=3D"font-family:'-apple-system'=2C BlinkMacSystemFon=
+t=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=
+=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;font-weight:norma=
+l;line-height:1.5;margin:0;margin-bottom:15px;">There are lots of reasons=
+ to join our virtual Satellite event. Here are just a few.</p>
+              <h3 style=3D"color:#111111 !important;font-family:'-apple-sy=
+stem'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-se=
+rif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-w=
+eight:500;line-height:1.25;margin:0 0 12px;font-size:20px;">Hear what=E2=
+=80=99s next</h3>
+              <p style=3D"font-family:'-apple-system'=2C BlinkMacSystemFon=
+t=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=
+=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;font-weight:norma=
+l;line-height:1.5;margin:0;margin-bottom:15px;">Be the first to learn abou=
+t some exciting announcements in security=2C DevOps=2C GitHub Enterprise=
+=2C and our product roadmap in a keynote from CEO Nat Friedman and more of=
+ the GitHub Team.</p>
+              <h3 style=3D"color:#111111 !important;font-family:'-apple-sy=
+stem'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-se=
+rif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-w=
+eight:500;line-height:1.25;margin:0 0 12px;font-size:20px;">Join the conve=
+rsation</h3>
+              <p style=3D"font-family:'-apple-system'=2C BlinkMacSystemFon=
+t=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=
+=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;font-weight:norma=
+l;line-height:1.5;margin:0;margin-bottom:15px;">Ask questions and share yo=
+ur thoughts about event sessions as they unfold with the GitHub Team and d=
+evelopers around the world. </p>
+              <h3 style=3D"color:#111111 !important;font-family:'-apple-sy=
+stem'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-se=
+rif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-w=
+eight:500;line-height:1.25;margin:0 0 12px;font-size:20px;">Get inspired</=
+h3>
+              <p style=3D"font-family:'-apple-system'=2C BlinkMacSystemFon=
+t=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=
+=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;font-weight:norma=
+l;line-height:1.5;margin:0;margin-bottom:15px;">From DJ sets built from co=
+de to live coding sessions=2C our new Play Track has lots of ways to stay=
+ inspired throughout the day=E2=80=94and after the event.</p>
+              <h3 style=3D"color:#111111 !important;font-family:'-apple-sy=
+stem'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-se=
+rif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-w=
+eight:500;line-height:1.25;margin:0 0 12px;font-size:20px;">Watch from any=
+where for free</h3>
+              <p style=3D"font-family:'-apple-system'=2C BlinkMacSystemFon=
+t=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=
+=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;font-weight:norma=
+l;line-height:1.5;margin:0;margin-bottom:15px;">Enjoy it all without leavi=
+ng your house=2C changing out of pajamas=2C or paying a dime. Just go to t=
+he Satellite site and join the livestream when you want to watch.</p>
+              <table class=3D"btn btn-primary" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"border-collapse:separate !important;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;width:100%;" width=3D"100%">
+                <tr>
+                  <td style=3D"font-family:'-apple-system'=2C BlinkMacSyst=
+emFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color E=
+moji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;vertical-ali=
+gn:top;" valign=3D"top">
+                    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"bo=
+rder-collapse:separate !important;mso-table-lspace:0pt;mso-table-rspace:0p=
+t;width:auto;">
+                      <tr>
+                        <td style=3D"font-family:'-apple-system'=2C BlinkM=
+acSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple C=
+olor Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;vertic=
+al-align:top;background-color:#0366d6;border-radius:5px;text-align:center;=
+" valign=3D"top" bgcolor=3D"#0366d6" align=3D"center">
+                          <a href=3D"https://github.us11.list-manage.com/t=
+rack/click?u=3D9d7ced8c4bbd6c2f238673f0f&id=3D5044f8de44&e=3Dd1cd7df8dd"=
+ style=3D"color:#ffffff;text-decoration:none;background-color:#0366d6;bord=
+er:solid 1px #0366d6;border-radius:5px;display:inline-block;font-size:16px=
+;font-weight:bold;margin:0;padding:10px 20px;border-color:#0366d6;">Explor=
+e the schedule</a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <hr style=3D"height:0;overflow:visible;margin-top:30px;margi=
+n-bottom:30px;border:0;border-top:1px solid #eee;">
+              <h2 style=3D"color:#111111 !important;font-family:'-apple-sy=
+stem'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-se=
+rif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-w=
+eight:500;line-height:1.25;margin:0 0 12px;font-size:28px;">Workshop with=
+ us on May 7</h2>
+              <p style=3D"font-family:'-apple-system'=2C BlinkMacSystemFon=
+t=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color Emoji'=
+=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;font-weight:norma=
+l;line-height:1.5;margin:0;margin-bottom:15px;">Want to get hands on with=
+ Git and GitHub the day after the main event? Sign up for virtual workshop=
+s happening the day after Satellite. Your ticket will include two workshop=
+s of your choice=2C hosted by experts from our Professional Services=2C Ec=
+osystem=2C and GitHub Security Teams. Workshops cost $50 to reserve a spot=
+=2C but 100% of proceeds go to these organizations=E2=80=99 COVID-19 relie=
+f efforts: <a href=3D"https://github.us11.list-manage.com/track/click?u=3D=
+9d7ced8c4bbd6c2f238673f0f&id=3Def7368de9d&e=3Dd1cd7df8dd" style=3D"color:=
+#0366d6;text-decoration:underline;">Banque Alimentaire</a>=2C <a href=3D"h=
+ttps://github.us11.list-manage.com/track/click?u=3D9d7ced8c4bbd6c2f238673f=
+0f&id=3D0e98ce83a3&e=3Dd1cd7df8dd" style=3D"color:#0366d6;text-decoration=
+:underline;">Food Bank for New York City</a>=2C and <a href=3D"https://git=
+hub.us11.list-manage.com/track/click?u=3D9d7ced8c4bbd6c2f238673f0f&id=3D18=
+fa1847ca&e=3Dd1cd7df8dd" style=3D"color:#0366d6;text-decoration:underline=
+;">Global FoodBanking Network</a>.</p>
+              <table class=3D"btn btn-primary" cellpadding=3D"0" cellspaci=
+ng=3D"0" style=3D"border-collapse:separate !important;mso-table-lspace:0pt=
+;mso-table-rspace:0pt;width:100%;" width=3D"100%">
+                <tr>
+                  <td style=3D"font-family:'-apple-system'=2C BlinkMacSyst=
+emFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color E=
+moji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;vertical-ali=
+gn:top;" valign=3D"top">
+                    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"bo=
+rder-collapse:separate !important;mso-table-lspace:0pt;mso-table-rspace:0p=
+t;width:auto;">
+                      <tr>
+                        <td style=3D"font-family:'-apple-system'=2C BlinkM=
+acSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple C=
+olor Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;vertic=
+al-align:top;background-color:#0366d6;border-radius:5px;text-align:center;=
+" valign=3D"top" bgcolor=3D"#0366d6" align=3D"center">
+                          <a href=3D"https://github.us11.list-manage.com/t=
+rack/click?u=3D9d7ced8c4bbd6c2f238673f0f&id=3D6ba7900ad8&e=3Dd1cd7df8dd"=
+ style=3D"color:#ffffff;text-decoration:none;background-color:#0366d6;bord=
+er:solid 1px #0366d6;border-radius:5px;display:inline-block;font-size:16px=
+;font-weight:bold;margin:0;padding:10px 20px;border-color:#0366d6;">Sign u=
+p for Satellite Workshops</a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <div class=3D"footer" style=3D"clear:both;width:100%;">
+                <hr class=3D"footer-hr" style=3D"height:0;overflow:visible=
+;margin-top:30px;border:0;border-top:1px solid #eee;color:#999999;font-siz=
+e:12px;line-height:18px;margin-bottom:30px;">
+                <div class=3D"footer-links" style=3D"color:#999999;font-si=
+ze:12px;line-height:18px;">
+                  <p class=3D"footer-text" style=3D"font-family:'-apple-sy=
+stem'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-se=
+rif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-w=
+eight:normal;margin:0;margin-bottom:15px;color:#999999;font-size:12px;line=
+-height:18px;">
+                    <a href=3D"https://github.us11.list-manage.com/unsubsc=
+ribe?u=3D9d7ced8c4bbd6c2f238673f0f&id=3D081a1c4883&e=3Dd1cd7df8dd&c=3D716cc5=
+6f02" style=3D"color:#999999;font-size:12px;line-height:18px;text-decorati=
+on:none;">Unsubscribe</a> =C2=B7
+                      <a href=3D"https://github.us11.list-manage.com/track=
+/click?u=3D9d7ced8c4bbd6c2f238673f0f&id=3De926785081&e=3Dd1cd7df8dd" styl=
+e=3D"color:#999999;font-size:12px;line-height:18px;text-decoration:none;">=
+Email preferences</a> =C2=B7
+                        <a href=3D"https://github.us11.list-manage.com/tra=
+ck/click?u=3D9d7ced8c4bbd6c2f238673f0f&id=3Db36d638f59&e=3Dd1cd7df8dd" st=
+yle=3D"color:#999999;font-size:12px;line-height:18px;text-decoration:none;=
+">Terms</a> =C2=B7
+                          <a href=3D"https://github.us11.list-manage.com/t=
+rack/click?u=3D9d7ced8c4bbd6c2f238673f0f&id=3D59ea4c65b2&e=3Dd1cd7df8dd"=
+ style=3D"color:#999999;font-size:12px;line-height:18px;text-decoration:no=
+ne;">Privacy</a> =C2=B7
+                            <a href=3D"https://github.us11.list-manage.com=
+/track/click?u=3D9d7ced8c4bbd6c2f238673f0f&id=3Dcea05e77ff&e=3Dd1cd7df8dd=
+" style=3D"color:#999999;font-size:12px;line-height:18px;text-decoration:n=
+one;">Sign in to GitHub</a>
+                          </p>
+                        </div>
+                        <p class=3D"footer-text" style=3D"font-family:'-ap=
+ple-system'=2C BlinkMacSystemFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C s=
+ans-serif=2C 'Apple Color Emoji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';=
+font-weight:normal;margin:0;margin-bottom:15px;color:#999999;font-size:12p=
+x;line-height:18px;">GitHub=2C Inc.<br style=3D"color:#999999;font-size:12=
+px;line-height:18px;"> 88 Colin P Kelly Jr St.<br style=3D"color:#999999;f=
+ont-size:12px;line-height:18px;"> San Francisco=2C CA 94107</p>
+                      </div>
+                    </div>
+                  </td>
+                  <td style=3D"font-family:'-apple-system'=2C BlinkMacSyst=
+emFont=2C 'Segoe UI'=2C Helvetica=2C Arial=2C sans-serif=2C 'Apple Color E=
+moji'=2C 'Segoe UI Emoji'=2C 'Segoe UI Symbol';font-size:16px;vertical-ali=
+gn:top;" valign=3D"top"></td>
+                </tr>
+              </table>
+            <img src=3D"https://github.us11.list-manage.com/track/open.php=
+?u=3D9d7ced8c4bbd6c2f238673f0f&id=3D716cc56f02&e=3Dd1cd7df8dd" height=3D"=
+1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_1891891813--
